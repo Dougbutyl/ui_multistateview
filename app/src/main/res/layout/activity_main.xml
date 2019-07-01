@@ -31,16 +31,12 @@
         android:id="@+id/ms_view"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        app:msv_errorView="@layout/view_error"
-        app:msv_loadingView="@layout/view_loading"
-        app:msv_emptyView="@layout/view_empty"
         app:msv_viewState="content">
         <TextView
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:text="内容页"
-            android:gravity="center"
-            />
+            android:gravity="center" />
     </com.neocean.app.library.MultiStateView>
 
 </LinearLayout>
