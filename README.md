@@ -43,4 +43,4 @@ kotlin
 |app:msv_errorView|@layout/view_error|失败（错误）页|
 |app:msv_emptyView|@layout/view_empty|空白页|
 |app:msv_loadingView|@layout/view_loading|加载页|
-|app:msv_viewState|line<br>boder<br>nointboder|指定状态页|
+|app:msv_viewState||指定状态页|
